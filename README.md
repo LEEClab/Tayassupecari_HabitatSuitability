@@ -1,4 +1,4 @@
-# Dataset and results from: _Setting priority conservation management regions to reverse rapid range decline of a key neotropical forest ungulate_
+# Data set and results from: _Setting priority conservation management regions to reverse rapid range decline of a key neotropical forest ungulate_
 
 This repository has data and results from the research article: _Setting priority conservation management regions to reverse rapid range decline of a key neotropical forest ungulate_ from Julia Emi de Faria Oshima, Maria Luisa S.P. Jorge, Thadeu Sobral-Souza, Luca Börger, Alexine Keuroghlian, Carlos A. Peres, Maurício Humberto Vancine, Ben Collen, and Milton Cezar Ribeiro. The paper was published in Novemeber of 2021 in Global Ecology and Conservation and can be found at https://doi.org/10.1016/j.gecco.2021.e01796
 
